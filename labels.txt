@@ -1,0 +1,2 @@
+0 zararlı balıklar
+1 zararsız balıklar
